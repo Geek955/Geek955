@@ -1,5 +1,5 @@
-🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2027.
-🌱 I’m currently learning Reverse Engineering/Binary Exploitatin.
+🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2027.\n
+🌱 I’m currently learning Reverse Engineering/Binary Exploitatin.\n
 👯 I’m looking to collaborate on projects related to cyber-security or secure programming.
 💬 Ask me about cyber security, programming .
 📫 How to reach me hammadnasirjutt95.com
