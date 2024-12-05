@@ -20,6 +20,7 @@ I actively participate in **Capture the Flag (CTF)** competitions, sharpening my
 - **Library Management System**: Implemented a comprehensive system for managing book inventories and user activities.
 - **Hogwarts Sorting Algorithm**: Designed a graph-based algorithm to sort students into Hogwarts houses based on their attributes.
 - **Cafe management System**: Designed a terminal based cafe management system , to handle the daily activites of a cafe.
+- **PACMAN IN ASSEMBLY** : Implemented The pacman game from scratch in MASM32 using irvine library.
 ---
 
 ## 🌟 Achievements
