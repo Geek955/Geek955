@@ -31,7 +31,7 @@ I actively participate in **Capture the Flag (CTF)** competitions, sharpening my
 
 ## 📫 Contact Me
 Feel free to connect with me for collaborations, queries, or opportunities:
-- **LinkedIn**: [LINDKED]([https://www.linkedin.com/in](https://www.linkedin.com/in/hammad-ahmed-cheema-01483228a)
+- **LinkedIn**: [LINDKED](https://www.linkedin.com/in/hammad-ahmed-cheema-01483228a)
 - **Gmail**: [E-MAIL](hammadnasirjutt95@gmail.com)
 
 <!---
