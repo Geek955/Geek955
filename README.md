@@ -31,7 +31,7 @@ I actively participate in **Capture the Flag (CTF)** competitions, sharpening my
 ## 📫 Contact Me
 Feel free to connect with me for collaborations, queries, or opportunities:
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/
-- **Gmail**📧 (hammadnasirjutt95@gmail.com)
+- **Gmail**: [📫](hammadnasirjutt95@gmail.com)
 
 <!---
 Geek955/Geek955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
